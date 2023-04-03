@@ -1062,17 +1062,18 @@
             "mode": "\u0026\u0026",
             "conditions": [
               {
-                "input": "card_id",
-                "operator": "contains",
+                "input": "state",
+                "operator": "\u003d\u003d [string]",
                 "col": "city_id",
+                "string": "New York",
                 "num": 0.0
               }
             ]
           }
         },
         "assertionCondition": {
-          "expectedValidRatio": 0.9,
-          "expectedClass": "0"
+          "expectedValidRatio": 0.85,
+          "expectedClass": "1"
         }
       }
     ]
