@@ -11,7 +11,24 @@
   "hasSetupSection": false,
   "owner": "judy.nam@dataiku.com",
   "permissionsVersion": "V2",
-  "permissions": [],
+  "permissions": [
+    {
+      "group": "space_administrators",
+      "admin": true,
+      "readProjectContent": false,
+      "writeProjectContent": false,
+      "exportDatasetsData": false,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "shareToWorkspaces": false,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    }
+  ],
   "additionalDashboardUsers": {
     "users": []
   },
@@ -190,11 +207,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
-      "login": "judy.nam@dataiku.com"
+      "login": "api:ZTSS4ITOXFFQ29XD"
     },
-    "lastModifiedOn": 1680529560452
+    "lastModifiedOn": 1680529746678
   },
   "creationTag": {
     "versionNumber": 0,
