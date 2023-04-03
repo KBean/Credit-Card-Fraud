@@ -189,6 +189,13 @@
       "checks": []
     }
   },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "judy.nam@dataiku.com"
+    },
+    "lastModifiedOn": 1680529560349
+  },
   "creationTag": {
     "versionNumber": 0,
     "lastModifiedBy": {
