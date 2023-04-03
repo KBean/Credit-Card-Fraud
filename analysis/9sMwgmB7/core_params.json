@@ -67,13 +67,13 @@
     "previewMode": "ALL_ROWS"
   },
   "charts": [],
-  "name": "Copy of Quick modeling of authorized_flag on 2020",
+  "name": "Max test",
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "maxime.mouchet@dataiku.com"
     },
-    "lastModifiedOn": 1680534992548
+    "lastModifiedOn": 1680535021083
   },
   "creationTag": {
     "versionNumber": 0,
