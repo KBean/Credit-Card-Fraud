@@ -190,11 +190,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "judy.nam@dataiku.com"
     },
-    "lastModifiedOn": 1680529560349
+    "lastModifiedOn": 1680529560452
   },
   "creationTag": {
     "versionNumber": 0,
