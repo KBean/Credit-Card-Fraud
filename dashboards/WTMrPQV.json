@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "TJVWOwv",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "judy.nam@dataiku.com",
+  "listed": true,
+  "name": "Credit Card Fraud Detection\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "judy.nam@dataiku.com"
+    },
+    "lastModifiedOn": 1680527883330
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "judy.nam@dataiku.com"
+    },
+    "lastModifiedOn": 1680527883330
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
