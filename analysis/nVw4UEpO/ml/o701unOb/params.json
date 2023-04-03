@@ -67,10 +67,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -90,10 +90,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -113,10 +113,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "DoubleMeaning"
         },
@@ -136,10 +136,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -171,10 +171,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -206,10 +206,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -241,10 +241,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "DateSource"
         },
@@ -276,10 +276,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -311,10 +311,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -346,10 +346,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "GeoPoint"
         },
@@ -369,10 +369,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -395,7 +395,7 @@
         "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -427,10 +427,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "USStateMeaning"
         },
@@ -462,10 +462,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -485,10 +485,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -523,7 +523,7 @@
         "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "USStateMeaning"
         },
@@ -546,7 +546,7 @@
         "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "DoubleMeaning"
         },
@@ -569,10 +569,10 @@
           "YEAR",
           "QUARTER"
         ],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Date"
         },
@@ -592,10 +592,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "DoubleMeaning"
         },
@@ -647,10 +647,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "GeoPoint"
         },
@@ -670,10 +670,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -693,10 +693,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -728,10 +728,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -774,7 +774,7 @@
         "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "DoubleMeaning"
         },
@@ -806,10 +806,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -829,10 +829,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -852,10 +852,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "DoubleMeaning"
         },
@@ -875,10 +875,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
@@ -910,10 +910,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Boolean"
         },
@@ -939,10 +939,10 @@
           "MONTH",
           "QUARTER"
         ],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Date"
         },
@@ -974,10 +974,10 @@
         "frequency_default_mode": "EXPLICIT",
         "frequency_default_value": 0.0,
         "frequency_normalized": true,
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "CATEGORY",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "Text"
         },
@@ -1016,10 +1016,10 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
-          "userModified": true,
+          "userModified": false,
           "autoModifiedByDSS": false,
           "recordedMeaning": "LongMeaning"
         },
