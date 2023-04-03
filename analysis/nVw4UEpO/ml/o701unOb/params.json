@@ -4003,7 +4003,8 @@
     "envMode": "USE_BUILTIN_MODE"
   },
   "containerSelection": {
-    "containerMode": "INHERIT"
+    "containerMode": "EXPLICIT_CONTAINER",
+    "containerConf": "CPU-XL-2-cpu-16Gb-Ram"
   },
   "sparkParams": {
     "sparkConf": {
