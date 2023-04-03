@@ -37,11 +37,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "judy.nam@dataiku.com"
     },
-    "lastModifiedOn": 1680529298723
+    "lastModifiedOn": 1680529435476
   },
   "creationTag": {
     "versionNumber": 0,
@@ -78,6 +78,10 @@
       {"name":"month_lag","type":"bigint"},
       {"name":"purchase_amount","type":"double"},
       {"name":"purchase_date","type":"date"},
+      {"name":"purchase_date_year","type":"bigint"},
+      {"name":"purchase_date_month","type":"bigint"},
+      {"name":"purchase_date_day","type":"bigint"},
+      {"name":"purchase_DOW","type":"bigint"},
       {"name":"purchase_date_parsed_year","type":"bigint"},
       {"name":"purchase_date_parsed_month","type":"bigint"},
       {"name":"purchase_date_parsed_day","type":"bigint"},
@@ -90,6 +94,7 @@
       {"name":"signature_provided","type":"bigint"},
       {"name":"first_active_month","type":"string"},
       {"name":"first_active_month_parsed","type":"date"},
+      {"name":"since_activated_years","type":"bigint"},
       {"name":"since_first_active_month","type":"bigint"},
       {"name":"internal_card_num_map","type":"string"},
       {"name":"fico_score","type":"double"},
