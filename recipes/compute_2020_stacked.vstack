@@ -1,6 +1,43 @@
 {
   "mode": "UNION",
   "originColumnName": "original_dataset",
+  "selectedColumns": [
+    "authorized_flag",
+    "card_id",
+    "city_id",
+    "category_1",
+    "installments",
+    "category_3",
+    "merchant_category_id",
+    "month_lag",
+    "purchase_amount",
+    "purchase_date",
+    "purchase_date_parsed_year",
+    "purchase_date_parsed_month",
+    "purchase_date_parsed_day",
+    "dow",
+    "purchase_year",
+    "purchase_month",
+    "purchase_dow",
+    "category_2",
+    "merchant_id",
+    "signature_provided",
+    "first_active_month",
+    "first_active_month_parsed",
+    "since_first_active_month",
+    "internal_card_num_map",
+    "fico_score",
+    "reward_program",
+    "merchant_group_id",
+    "subsector_id",
+    "latitude",
+    "longitude",
+    "subsector_description",
+    "merchant_location",
+    "state",
+    "state_enName",
+    "geo_point"
+  ],
   "engineParams": {
     "hive": {
       "skipPrerunValidate": false,
@@ -54,6 +91,153 @@
     }
   ],
   "postFilter": {
+    "$status": {
+      "schema": {
+        "columns": [
+          {
+            "name": "authorized_flag",
+            "type": "string"
+          },
+          {
+            "name": "card_id",
+            "type": "string"
+          },
+          {
+            "name": "city_id",
+            "type": "string"
+          },
+          {
+            "name": "category_1",
+            "type": "string"
+          },
+          {
+            "name": "installments",
+            "type": "string"
+          },
+          {
+            "name": "category_3",
+            "type": "string"
+          },
+          {
+            "name": "merchant_category_id",
+            "type": "string"
+          },
+          {
+            "name": "month_lag",
+            "type": "string"
+          },
+          {
+            "name": "purchase_amount",
+            "type": "string"
+          },
+          {
+            "name": "purchase_date",
+            "type": "string"
+          },
+          {
+            "name": "purchase_date_parsed_year",
+            "type": "string"
+          },
+          {
+            "name": "purchase_date_parsed_month",
+            "type": "string"
+          },
+          {
+            "name": "purchase_date_parsed_day",
+            "type": "string"
+          },
+          {
+            "name": "dow",
+            "type": "string"
+          },
+          {
+            "name": "purchase_year",
+            "type": "string"
+          },
+          {
+            "name": "purchase_month",
+            "type": "string"
+          },
+          {
+            "name": "purchase_dow",
+            "type": "string"
+          },
+          {
+            "name": "category_2",
+            "type": "string"
+          },
+          {
+            "name": "merchant_id",
+            "type": "string"
+          },
+          {
+            "name": "signature_provided",
+            "type": "string"
+          },
+          {
+            "name": "first_active_month",
+            "type": "string"
+          },
+          {
+            "name": "first_active_month_parsed",
+            "type": "string"
+          },
+          {
+            "name": "since_first_active_month",
+            "type": "string"
+          },
+          {
+            "name": "internal_card_num_map",
+            "type": "string"
+          },
+          {
+            "name": "fico_score",
+            "type": "string"
+          },
+          {
+            "name": "reward_program",
+            "type": "string"
+          },
+          {
+            "name": "merchant_group_id",
+            "type": "string"
+          },
+          {
+            "name": "subsector_id",
+            "type": "string"
+          },
+          {
+            "name": "latitude",
+            "type": "string"
+          },
+          {
+            "name": "longitude",
+            "type": "string"
+          },
+          {
+            "name": "subsector_description",
+            "type": "string"
+          },
+          {
+            "name": "merchant_location",
+            "type": "string"
+          },
+          {
+            "name": "state",
+            "type": "string"
+          },
+          {
+            "name": "state_enName",
+            "type": "string"
+          },
+          {
+            "name": "geo_point",
+            "type": "string"
+          }
+        ],
+        "userModified": false
+      }
+    },
     "distinct": false,
     "enabled": false
   },
