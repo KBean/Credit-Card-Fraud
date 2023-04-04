@@ -134,6 +134,9 @@
             "displayAxis": "axis1",
             "displayType": "column",
             "computeModeDim": 0,
+            "multiplier": "Auto",
+            "prefix": "",
+            "suffix": "",
             "colorRules": []
           }
         ],
@@ -260,6 +263,7 @@
           "defaultRadius": 5.0,
           "singleShape": "FILLED_CIRCLE"
         },
+        "computeMode": "NORMAL",
         "xAxisMode": "NORMAL",
         "yAxisMode": "NORMAL",
         "pieOptions": {
