@@ -67,7 +67,7 @@
         "binarize_threshold_mode": "MEDIAN",
         "binarize_constant_threshold": 0.0,
         "datetime_cyclical_periods": [],
-        "role": "REJECT",
+        "role": "INPUT",
         "type": "NUMERIC",
         "state": {
           "userModified": true,
@@ -1199,7 +1199,10 @@
           "min": 1
         },
         "values": [
-          100
+          100,
+          200,
+          400,
+          800
         ],
         "range": {
           "min": 80,
@@ -1217,7 +1220,8 @@
         },
         "values": [
           6,
-          15
+          15,
+          21
         ],
         "range": {
           "min": 6,
