@@ -40,6 +40,7 @@
       "zonesGraphConnectZones": true
     },
     "gitCommitMode": "AUTO",
+    "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
       "integrations": []
@@ -207,11 +208,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
-      "login": "api:ZTSS4ITOXFFQ29XD"
+      "login": "judy.nam@dataiku.com"
     },
-    "lastModifiedOn": 1680529746678
+    "lastModifiedOn": 1681093474085
   },
   "creationTag": {
     "versionNumber": 0,
